@@ -1,0 +1,27 @@
+/node_modules
+/public/hot
+/public/storage
+/public/js/*
+/public/css/*
+/public/mix-manifest.json
+/storage/*.key
+/vendor
+/.vagrant
+/.idea
+/.vscode
+/.env
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+.hhvm.hhbc
+*.swp
+*.swo
+.rnd
+/.vscode
+/ .idea
+.php_cs.cache
+/laradock
+/laradock/*
+.env
